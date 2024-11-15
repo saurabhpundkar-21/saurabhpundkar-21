@@ -1,4 +1,3 @@
-![Data Analyst Animation](https://iconscout.com/lottie-animation/man-doing-business-data-analysis-4835205)
 
 ## Hi there! I am Saurabh Pundkar 👋 
 
@@ -19,6 +18,8 @@ to create impactful solutions
 • Statistics
 
 ## 🌐 Connect With me
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2013.svg)](https://www.linkedin.com/in/saurabh-pundkar-21ba73212)  
+Linkedin -
 
-
+  <a href="https://https://www.linkedin.com/in/saurabh-pundkar-21ba73212" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="35" height="35"/>
+</a>
