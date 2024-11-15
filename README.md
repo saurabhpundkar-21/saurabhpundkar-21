@@ -1,16 +1,24 @@
-## Hi there 👋
+![Data Analyst Animation](https://iconscout.com/lottie-animation/man-doing-business-data-analysis-4835205)
 
-<!--
-**saurabhpundkar-21/saurabhpundkar-21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there! I am Saurabh Pundkar 👋 
 
-Here are some ideas to get you started:
+## 🚀 About Me
+Welcome to my GitHub profile! I'm a Data Analyst
+dedicated to transforming complex datasets into
+clear,actionable insights. Proficienct in Excel,
+Power Bi, SQL, Tableau and Python. I aim to 
+blend technical skills with business insights
+to create impactful solutions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+• Excel
+• Power Bi
+• SQL
+• Python
+• Tableau
+• Statistics
+
+## 🌐 Connect With me
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2013.svg)](https://www.linkedin.com/in/saurabh-pundkar-21ba73212)  
+
+
