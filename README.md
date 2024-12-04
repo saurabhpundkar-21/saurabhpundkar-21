@@ -10,12 +10,12 @@ blend technical skills with business insights
 to create impactful solutions
 
 ## 🛠 Skills
-• Excel
-• Power Bi
-• SQL
-• Python
-• Tableau
-• Statistics
+* Excel
+* Power Bi
+* SQL
+* Python
+* Tableau
+* Statistics
 
 ## 🌐 Connect With me
 Linkedin -
